@@ -1,9 +1,6 @@
 # music-app-figma
 Desktop/Mobile app - UX/UI Design Figma Project.
 
-FIGMA LINK:
-<a>https://www.figma.com/file/mCCWt8kL1KR8TdlAFvHDNC/wireframes_gabrielius?node-id=0%3A1</a>
-
 DESKTOP:
 ![DESKTOP_SIGNUP](https://github.com/gabrieliusjan/music-app-figma/assets/144029939/e2d610bb-8e9d-475b-8cc7-09f4e2d225f0)
 ![DESKTOP_PLAYLIST](https://github.com/gabrieliusjan/music-app-figma/assets/144029939/702e354c-750f-4857-8b1a-89b3c1f6c1bd)
